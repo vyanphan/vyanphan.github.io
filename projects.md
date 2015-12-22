@@ -18,3 +18,4 @@ I like to look back on them just to see how little I've changed. <br>
 
 ### Projects
 <a href = "http://www.greenfoot.org/scenarios/10301">UFO game</a> (Or, why all AP Compsci students hate Greenfoot/Gridworld)
+<a href = "http://vyanphan.github.io/projects/protect/HogDice.htm">Hog Dice</a>
