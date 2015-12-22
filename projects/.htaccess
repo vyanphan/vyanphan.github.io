@@ -1,4 +1,4 @@
-AuthUserFile /home/yourdomain/docs/hidden/myproduct/.htpasswd
+AuthUserFile http://vyanphan.github.io/projects/protect/.htpasswd
 AuthGroupFile /dev/null
 AuthName "Restricted Access" 
 AuthType Basic
