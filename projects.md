@@ -5,6 +5,8 @@ permalink: /projects/
 ---
 
 Things that I have done so far.
+<br>
+<br>
 
 ### Websites 
 ...from a ridiculously long time ago. <br>
