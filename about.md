@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I <i>like</i> to think I'm funny.
+I like to build things. But only if I have the time. <br>
+I'll get all my projects up here...eventually...
 
 ### Contact me
 One day, I <i>might</i> put some of my personal info here.
