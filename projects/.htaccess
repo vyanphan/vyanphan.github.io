@@ -1,7 +1,0 @@
-AuthUserFile http://vyanphan.github.io/projects/protect/HogDice/.htpasswd
-AuthGroupFile /dev/null
-AuthName "Restricted Access" 
-AuthType Basic
-<Limit GET>
-require user FriendOrFoe
-</Limit>
