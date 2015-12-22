@@ -1,7 +1,0 @@
-AuthUserFile /home/yourdomain/docs/hidden/myproduct/.htpasswd
-AuthGroupFile /dev/null
-AuthName "Restricted Access" 
-AuthType Basic
-<Limit GET>
-require user interlogy
-</Limit>
