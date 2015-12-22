@@ -11,7 +11,7 @@ Things that I have done so far.
 As in, everything is hard-coded. In HTML. With tables. And tile backgrounds. <br>
 I like to look back on them just to see how little I've changed. <br>
 <a href = "http://thoughtpool.org/users/963290/Compsci/index.html">Alice and Karel</a> <br>
-<a href = "http://thoughtpool.org/users/963290/Bug%20Project/index.html>Entomology</a> <br>
+<a href = "http://thoughtpool.org/users/963290/Bug%20Project/index.html">Entomology</a> <br>
 
 <br>
 
