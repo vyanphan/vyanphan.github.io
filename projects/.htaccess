@@ -1,4 +1,4 @@
-AuthUserFile http://vyanphan.github.io/projects/protect/.htpasswd
+AuthUserFile http://vyanphan.github.io/projects/protect/HogDice/.htpasswd
 AuthGroupFile /dev/null
 AuthName "Restricted Access" 
 AuthType Basic
