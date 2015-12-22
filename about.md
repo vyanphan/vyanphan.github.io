@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I <i>like</i> to think I'm funny.
 
 ### More Information
 
