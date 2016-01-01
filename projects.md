@@ -22,7 +22,7 @@ I like to look back on them just to see how little I've changed. <br>
 <a href = "http://www.greenfoot.org/scenarios/10301">UFO game</a> (Or, why all AP Compsci students hate Greenfoot/Gridworld) <br>
 <br>
 <b><a href="http://thinfi.com/uz2">Private Projects</a></b> (Password required for source code) <br>
-Click <a href="http://thinfi.com/v6d">here</a> to view private projects if the above link does not work.
+*Click <a href="http://thinfi.com/v6d">here</a> to view private projects if the above link does not work. <br><br>
 Hog Dice <br>
 Maps <br>
 Ants vs. SomeBees <br>
