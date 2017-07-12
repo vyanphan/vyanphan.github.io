@@ -10,5 +10,7 @@ In my spare time, I like drawing, reading, and cooking. I am also very bad at sk
 
 ### <a href="https://drive.google.com/file/d/0B2Vl-GyVvbAfX3JwTmlnQjJ1SFU/view?usp=sharing">Resume</a> 
 
+### <a href="https://www.linkedin.com/in/vyan-n-phan/">LinkedIn</a>
+
 ### Contact me
-Email: [vyan.n.phan@gmail.com](mailto:vyan.n.phan@gmail.com)
+Email: [vyan.n.phan@gmail.com](mailto:vyan.n.phan@gmail.com) <br>
