@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I like to build things. But only if I have the time. <br>
-I'll get all my projects up here...eventually...
+I am an EECS Undergraduate at UC Berkeley. 
+
+### Resume
+<a href="https://drive.google.com/file/d/0B2Vl-GyVvbAfX3JwTmlnQjJ1SFU/view?usp=sharing">Resume</a> <br>
+<br>
 
 ### Contact me
-One day, I <i>might</i> put some of my personal info here.
-Just kidding. No I won't.
-[//]: # "[email@domain.com](mailto:email@domain.com)"
+Email
+[//]: # "[vyan.n.phan@gmail.com](mailto:vyan.n.phan@gmail.com)"
