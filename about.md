@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 I am an EECS Undergraduate at UC Berkeley. My main interests are computer security, machine learning, and parallelizing software. Currently, I am a software security intern in the Cryptographic Operations Group at Qualcomm. <br>
-<br>
 
 In my spare time, I like drawing, reading, and cooking.
 

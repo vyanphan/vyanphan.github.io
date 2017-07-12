@@ -11,7 +11,7 @@ Things that I have done so far.
 ### <a href="https://github.com/vyanphan">My Github</a> 
 Contact me if you would like to see my private repositories.
 
-###Collaborations <br>
+### Collaborations
 <a href = "https://github.com/tusing/nms-speedup">Non-Maximum Suppression</a><br>
     with Tushar Singhal, Jerry Zhao, Seth Park, Simon Zimmerman <br><br>
 <a href = "https://github.com/vyanphan/FindRx">Hope Alliance glasses app</a><br>
